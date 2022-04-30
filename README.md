@@ -1,6 +1,6 @@
 # Hangman-Game
 
-A simple game
+A simple game.
 
 ![image](https://user-images.githubusercontent.com/71688954/162812519-634347ff-3e8b-4e9a-ba62-d2066f5b86fb.png)
 
